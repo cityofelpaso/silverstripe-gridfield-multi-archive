@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe-gridfield-multi-archive",
+	"name": "coep/silverstripe-gridfield-multi-archive",
 	"description": "Creates checkboxes to multi-select items to archive",
 	"type": "silverstripe-vendormodule",
 	"keywords": [
