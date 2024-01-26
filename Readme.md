@@ -10,7 +10,7 @@ GridField component that adds checkboxes to each row in a gridfield allowing you
 ## Install
 
 ```
-composer require cityofelpaso/silverstripe-gridfield-multi-archive
+composer require coep/silverstripe-gridfield-multi-archive
 
 ```
 
